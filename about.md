@@ -1,11 +1,11 @@
 ---
 layout: page
 title: "About"
-description: "你的博客描述 " 
-header-img: "img/green.jpg"
+description: "\"不可能\"这个词只有在愚人的字典里找得到" 
+header-img: "img/red.jpg"
 ---
 
-这一页填写你的自我介绍。
+依旧小白
 
 
 
