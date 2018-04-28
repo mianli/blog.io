@@ -10,7 +10,7 @@ url: "http://changeredblog.com"  # 此处填写你的博客地址
 owner: 
   name: "苏蔡（笔）" # 填写作者信息：名字
   email: crown_li@126.com # 填写作者信息：邮箱
-  bio: "\“不可能\“这个词，只有在愚人的字典里找得到" # 填写作者信息：博客描述
+  bio: "“不可能“这个词，只有在愚人的字典里找得到" # 填写作者信息：博客描述
 
 # Data
 gavatar: img/changered.png # 浏览器地址栏小图标，可自定义更改
