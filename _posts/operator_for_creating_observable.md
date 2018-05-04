@@ -7,7 +7,7 @@ tags:
 description: RxJava手册
 ---
 
-#RxJava1.x Observable创建操作
+# RxJava1.x Observable创建操作
 ## just
 - 创建一个可发射精确条目的可观察者
 
