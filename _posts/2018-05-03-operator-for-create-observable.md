@@ -1,25 +1,11 @@
 ---
 layout: post
-title: 这是一篇博客文章模板
-date: 2015-3-02
+title: RxJava1.x Observable创建操作
+date: 2018-5-03
 categories: blog
-tags: [标签一,标签二]
-description: 文章金句。
+tags: RxJava
+description: RxJava1.x 手册
 ---
-
-这里是博客正文。
-
-
-
-
-
-
-
-
-
-
-
-
 
 # RxJava1.x Observable创建操作
 ## just
