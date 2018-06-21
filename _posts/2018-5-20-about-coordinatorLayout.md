@@ -242,11 +242,11 @@ CollapseingToolbarLayout是提供一个可折叠的ToolBar，它继承自FrameLa
 只要CollapsingAppbarlayout里面包含ToolBar，那么CollapsingAppbarLayout折叠后的高度就是Toolbar的高度，相当于CollapsingAppbarLayout设置了minHeight属性。
 
 app:layout_collapseMode表示折叠模式，它是CollapsingToolbarLayout子控件需要直接设置的。它有3种设置情况：
-1. 不设置：会跟随NestedScrollView的滑动一起滑动，NestedScrollView滑动多少距离，它就跟随着滑动多少距离。
+1.不设置：会跟随NestedScrollView的滑动一起滑动，NestedScrollView滑动多少距离，它就跟随着滑动多少距离。
 
 ![](https://raw.githubusercontent.com/mianli/-/master/coodinatorLayout%2BcollapsingToolbarLayout_none.gif)
 
-2. pin：在滑动过程中会固定在它所在的位置不动，直到CollapsingAppbarLayout全部折叠或展开。
+2.pin：在滑动过程中会固定在它所在的位置不动，直到CollapsingAppbarLayout全部折叠或展开。
 
 ```
 <android.support.v7.widget.Toolbar
@@ -259,7 +259,7 @@ app:layout_collapseMode表示折叠模式，它是CollapsingToolbarLayout子控�
 ```
 ![](https://raw.githubusercontent.com/mianli/-/master/coodinatorLayout%2BcollapsingToolbarLayout_pin.gif)
 
-3. parallax：视差效果。可以和layout_collapseParallaxMultipier(*取值为0~1*)配合使用。
+3.parallax：视差效果。可以和layout_collapseParallaxMultipier(*取值为0~1*)配合使用。
 
 ```
 <android.support.v7.widget.Toolbar
