@@ -1,11 +1,3 @@
----
-layout: post
-title: MD之BottomSheetBehavior
-date: 2017-10-01
-categories: blog
-tags: MD
-description: MD设计
----
 
 
 ### BottomSheetBehavior

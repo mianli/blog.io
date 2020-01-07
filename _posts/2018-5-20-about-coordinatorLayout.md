@@ -1,11 +1,3 @@
----
-layout: post
-title: 初识CoordinatorLayout
-date: 2018-6-10
-categories: blog
-tags: UI
-description: 控件
----
 
 
 参考：

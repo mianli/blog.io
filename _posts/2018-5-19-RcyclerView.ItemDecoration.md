@@ -1,13 +1,4 @@
 
----
-layout: post
-title: RcyclerView.ItemDecoration
-date: 2018-05-19
-categories: blog
-tags: Java
-description: Java基础
----
-
 
 # RcyclerView.ItemDecoration
 

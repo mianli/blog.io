@@ -1,11 +1,4 @@
----
-layout: post
-title: EventBus
-date: 2018-6-10
-categories: blog
-tags: tools
-description: tools
----
+
 
 EventBus 传送门：[点击这里](https://github.com/greenrobot/EventBus)
 

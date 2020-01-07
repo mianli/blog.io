@@ -1,12 +1,4 @@
 
----
-layout: post
-title: ThreadLocal
-date: 2017-04-07
-categories: blog
-tags: Java
-description: Java基础
----
 
 
 

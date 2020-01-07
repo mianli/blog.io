@@ -1,14 +1,4 @@
 
----
-layout: post
-title: Wait/Notify
-date: 2017-04-09
-categories: blog
-tags: Java
-description: Java基础
----
-
-
 
 # Wait/Notify
 

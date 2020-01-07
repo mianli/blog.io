@@ -1,11 +1,4 @@
----
-layout: post
-title: RxJava1.x Observable变换操作
-date: 2018-5-07
-categories: blog
-tags: RxJava
-description: RxJava1.x 手册
----
+
 
 ## buffer
 - 定期收集Observable的数据并放入数据包裹中并发射，而不是每次发射一个数据

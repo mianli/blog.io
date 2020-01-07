@@ -1,12 +1,3 @@
----
-layout: post
-title: RecyclerView之ItemDecoration
-date: 2017-9-25
-categories: blog
-tags: UI
-description: 控件
----
-
 
 RecyclerView.ItemDecoration有三个重要的方法：
 1. onDraw(Canvas c, RecyclerView parent, State state)

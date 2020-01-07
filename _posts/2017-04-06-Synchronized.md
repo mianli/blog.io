@@ -1,13 +1,4 @@
 
----
-layout: post
-title: Synchronized
-date: 2017-03-13
-categories: blog
-tags: Java
-description: Java基础
----
-
 
 # Synchronized
 

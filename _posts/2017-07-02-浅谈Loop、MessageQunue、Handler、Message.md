@@ -1,15 +1,5 @@
 
 
----
-layout: post
-title: 浅谈Loop、MessageQunue、Handler、Message
-date: 2017-07-02
-categories: blog
-tags: Java
-description: Java基础
----
-
-
 # 浅谈Loop、MessageQunue、Handler、Message
 
 四者的关系：    

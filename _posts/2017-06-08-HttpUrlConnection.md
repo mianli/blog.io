@@ -1,12 +1,4 @@
 
----
-layout: post
-title: UrlConnection
-date: 2017-06-08
-categories: blog
-tags: Java
-description: Java基础
----
 
 
 # UrlConnection

@@ -1,11 +1,4 @@
----
-layout: post
-title: LinkedList
-date: 2017-03-15
-categories: blog
-tags: Java
-description: Java基础
----
+
 
 # LinkedList
 

@@ -1,11 +1,4 @@
----
-layout: post
-title: ConstaintLayout
-date: 2018-05-26
-categories: blog
-tags: Java
-description: Java基础
----
+
 
 
 # ConstaintLayout

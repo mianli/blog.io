@@ -1,13 +1,4 @@
 
----
-layout: post
-title: ArrayList
-date: 2017-03-15
-categories: blog
-tags: Java
-description: Java基础
----
-
 
 # ArrayList
 
