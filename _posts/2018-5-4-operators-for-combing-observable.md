@@ -1,4 +1,15 @@
-## Combine
+
+---
+layout: post
+title: Combine
+date: 2018-05-4
+categories: blog
+tags: Java
+description: Java基础
+---
+
+
+# Combine
 
 - 当两个Observable中有任何一个发射数据时，另一个Observable会通过一个指定的方法与它最近发射的数据项结合，并发射通过这个指定方法发射一个其结合的结果。
 
