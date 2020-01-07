@@ -98,7 +98,7 @@ crossAxisAlignment：表示子组件在纵轴方向的对齐方式，Row的高�
   ...
 ```
 
-![](images/test1.png)
+![](https://raw.githubusercontent.com/mianli/mianli.GitHub.io/master/_posts/images/test1.png)
 
 Row和Column类似，只不过主轴和纵轴概念交换了。
 

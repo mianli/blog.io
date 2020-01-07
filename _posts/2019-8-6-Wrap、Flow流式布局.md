@@ -13,7 +13,7 @@ Row(
 )
 ```
 
-![](images/Row布局溢出.png)
+![](https://raw.githubusercontent.com/mianli/mianli.GitHub.io/master/_posts/images/Row布局溢出.png)
 
 因为Row默认只有一行，所以当子组件超过屏幕时将会溢出报错。Futter支持使用Wrap或Flow来支持自动折行，称此布局为流式布局。
 
@@ -70,7 +70,7 @@ Wrap(
 
 运行效果如下：
 
-![](images/Wrap.png)
+![](https://raw.githubusercontent.com/mianli/mianli.GitHub.io/master/_posts/images/Wrap.png)
 
 ## Flow
 
@@ -157,6 +157,6 @@ class TestFlowDelegate extends FlowDelegate {
 
 运行效果：
 
-![](images/flow.png)
+![](https://raw.githubusercontent.com/mianli/mianli.GitHub.io/master/_posts/images/flow.png)
 
 [源码](code/flow.dart)
